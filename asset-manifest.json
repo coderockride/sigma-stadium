@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/sigma-stadium/static/js/main.c47fceed.js",
+    "main.js": "/sigma-stadium/static/js/main.b15f142e.js",
     "index.html": "/sigma-stadium/index.html",
-    "main.c47fceed.js.map": "/sigma-stadium/static/js/main.c47fceed.js.map"
+    "main.b15f142e.js.map": "/sigma-stadium/static/js/main.b15f142e.js.map"
   },
   "entrypoints": [
-    "static/js/main.c47fceed.js"
+    "static/js/main.b15f142e.js"
   ]
 }
